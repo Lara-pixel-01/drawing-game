@@ -1,4 +1,4 @@
-# drawing-gameMultiplayer Drawing Game
+# Multiplayer Drawing Game
 
 A real-time multiplayer drawing game where players draw based on themes and view each other's artwork at the end of the round. Built with Python, PyQt6, sockets and threading.
 
